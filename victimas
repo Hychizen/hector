@@ -1,0 +1,166 @@
+{
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Víctimas de violencia de género a nivel mensual - Mujeres asesinadas en lo que va de año para total como edad de la víctima, total como edad del agresor, total como relación del agresor con la víctima, total como convivencia con el agresor, total como denuncia interpuesta contra el agresor y Canarias, Cataluña, víctima Navarra, Comunidad Valenciana, Castilla León, Madrid, Islas Baleares, Andalucía, La Rioja, Galicia, Cantabria, Castilla-La Mancha, Aragón, Asturias, Murcia, Ceuta, Extremadura, País Vasco, Melilla como comunidad autónoma donde se cometió el crimen",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Mujeres asesinadas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Andalucía",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Aragón",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Asturias",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Canarias",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Cantabria",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Castilla y León",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Castilla-La Mancha",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Cataluña",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Ceuta",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Comunidad Valenciana",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Extremadura",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Galicia",
+                            "Valor": 1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Islas Baleares",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "La Rioja",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Madrid",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Melilla",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Murcia",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "Navarra",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2023,
+                            "Periodo": "Diciembre",
+                            "Parametro": "País Vasco",
+                            "Valor": 0,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
